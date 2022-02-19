@@ -1,4 +1,4 @@
-LIN_IN = True
+LIN_IN = False
 GRAPHIC = True
 FRAMERATE = 30
 
